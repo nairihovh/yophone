@@ -164,12 +164,25 @@ if __name__ == "__main__":
 ## Troubleshooting
 
 - **Error:** `'botId'`
+
   - Ensure the `getUpdates` response contains all required fields.
   - Add logging to inspect the response structure.
 
 - **Error:** `HTTPError: 400 Bad Request`
+
   - Verify your API token.
   - Check the structure of your requests (e.g., `sendMessage` payload).
+
+---
+
+## Donations
+
+If you would like to support the development of YoPhoneBot, you can donate using the following details:
+
+- **FTN Bahamut Network**: `0xAfF705A6edD4b2E2B53f1Cd4A7ac296CdC813A21`
+- **USDT (TRC20)**: `TQKpNzAQov2q726jyw7ATq6xnuX6H1GH58`
+
+Your support is greatly appreciated! 💖
 
 ---
 
